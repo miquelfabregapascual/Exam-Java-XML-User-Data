@@ -1,0 +1,17 @@
+
+
+Xavier :xvr
+josep:jsp
+miquel:mql
+xavier@xavier.com
+Xavier:xvr : correu :xavier@xavier.com
+josep:jsp : correu :josep@josep.com
+miquel:mql : correu :miquel@miquel.com
+patata:1234 : correu :favra
+miquel:pasc : correu :aks
+miqje,l:asd : correu :muiqwhl@gmail.com
+miquel:1234 : correu :miquel@gmail.com
+miquell:1234 : correu :
+Elice:1234 : correu :elice@gmail.com
+joan:joan : email :joan@gmail.com
+joan:joan : email :joan@gmail.com
