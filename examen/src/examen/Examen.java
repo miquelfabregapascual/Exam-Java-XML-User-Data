@@ -35,7 +35,7 @@ public class Examen {
     int choice;
     do {
         System.out.println("Select an exercise to run:");
-        System.out.println("1. Player with less level");
+        System.out.println("1. Player with less level...");
         System.out.println("2. Create user mail");
         System.out.println("3. See mails");
 
